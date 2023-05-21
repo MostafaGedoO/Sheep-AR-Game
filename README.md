@@ -1,2 +1,2 @@
 # Sheep AR Game
- Project for tge mobile AR develpoment pathway
+ Project for the unity mobile AR develpoment pathway
