@@ -6,15 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_UFO Game/Scenes/StartScene.unity
-    guid: 16607250c35d8b84f8d4511d66e1bd40
-  - enabled: 1
-    path: Assets/_UFO Game/Scenes/MainScene.unity
-    guid: a540b77b88344ec41aa71b9ce443018f
-  - enabled: 1
-    path: Assets/_UFO Game/Scenes/WinScene.unity
-    guid: a704504e8e6d37c46ac9620bbed4e92c
-  - enabled: 1
-    path: Assets/_UFO Game/Scenes/LoseScene.unity
-    guid: 207b488a2374d234dab01ee0ed81f770
-  m_configObjects: {}
+    path: Assets/AR Scene/AR Main Scene.unity
+    guid: 1d2f95933ab8c2242b20237fb397078a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: db7272482b97f8743be44e47e37c7679,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7a79229a2e19cf14fb7ffeeff6f6deb1,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 507e6ef85a878484492ed5421d4c873c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bbe41fd390685054b91c399d750667c5,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3af39a1668456f2459fa11501072df2f,
+      type: 2}
