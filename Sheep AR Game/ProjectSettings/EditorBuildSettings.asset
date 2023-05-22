@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AR Scene/AR Main Scene.unity
-    guid: 1d2f95933ab8c2242b20237fb397078a
+    path: Assets/_UFO Game/Scenes/StartScene.unity
+    guid: 16607250c35d8b84f8d4511d66e1bd40
+  - enabled: 1
+    path: Assets/_UFO Game/Scenes/MainScene.unity
+    guid: a540b77b88344ec41aa71b9ce443018f
+  - enabled: 1
+    path: Assets/_UFO Game/Scenes/WinScene.unity
+    guid: a704504e8e6d37c46ac9620bbed4e92c
+  - enabled: 1
+    path: Assets/_UFO Game/Scenes/LoseScene.unity
+    guid: 207b488a2374d234dab01ee0ed81f770
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: db7272482b97f8743be44e47e37c7679,
       type: 2}
